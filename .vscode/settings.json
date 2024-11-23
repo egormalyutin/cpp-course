@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.hs": "haskell",
+        "*.h": "c",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "tuple": "cpp"
+    }
+}
